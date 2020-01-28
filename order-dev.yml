@@ -21,5 +21,4 @@ spring:
         prefetch: 50
 server:
   port: 8081
-env:
-  dev2
+env: dev2
