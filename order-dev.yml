@@ -19,6 +19,9 @@ spring:
         concurrency: 10
         max-concurrency: 20
         prefetch: 50
+  redis:
+    host: 192.168.229.129
+    port: 6379
 server:
   port: 8081
 env: dev2
