@@ -12,4 +12,4 @@ spring:
     host: 192.168.229.130
     port: 6379
 server:
-  port: 8085
+  port: 8086
